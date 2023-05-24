@@ -1,0 +1,17 @@
+{
+    "title":"Personal Details",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword":"Confirm Password",
+    "phone": "Phone Number",
+    "adress":"Address",
+    "upload":"Upload Photo",
+    "next":"Next",
+    "line1":"Line 1",
+    "line2":"Line 2",
+    "city":"City",
+    "state":"State",
+    "pin":"Pincode",
+    "aadhaar":"Aadhaar Number"
+}

@@ -1,0 +1,7 @@
+{
+    "title":"Bank Details",
+    "abn":"Account Beneficiary Name",
+    "acno":"Account Number",
+    "ifsc":"IFSC Code",
+    "next":"Next"
+}
